@@ -1,16 +1,11 @@
-## Hi there 👋
+## It's dreamer-35 here! 👋
 
-<!--
-**dreamer-35/dreamer-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on the research of computer science, humanities and history 
+- 🌱 Learning data science, data engineering, and artificial intelligence related technologies
+- 👯 I’m looking to collaborate on Open Source Technology
+- 💬 Feel free to ask me all things innovation!
+- 📫 Reach me:
+    1. Email: rhythm35@protonmail.com
+    2. WebSite: xxx
+- 😄 Pronouns: dreamer
+- ⚡ Fun fact: I really like the number 35 because it's my lucky number, and one of my favorite basketball players used to wear it.
